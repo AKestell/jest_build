@@ -1,0 +1,22 @@
+{
+  "name": "jest_build",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKestell/jest_build.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKestell/jest_build/issues"
+  },
+  "homepage": "https://github.com/AKestell/jest_build#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
